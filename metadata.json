@@ -1,0 +1,6 @@
+{
+  "name": "TempMail AI",
+  "description": "A production-ready temporary email application using Mail.tm",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
